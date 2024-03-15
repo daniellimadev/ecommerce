@@ -1,0 +1,7 @@
+
+P
+java:S6213":Rename this variable to not match a restricted identifier.(åÔÜÒ
+E	java:S106%"+Replace this use of System.out by a logger.(â€´—þÿÿÿÿ
+K
+java:S1128
+"0Remove this unused import 'java.io.IOException'.(ªº»Úýÿÿÿÿ
